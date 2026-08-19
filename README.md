@@ -2,7 +2,7 @@
 Projeto pratico da DIO. 
 
 O que fazer?
-Replicar ou Criar um dashboard de vendas no Excel que responda perguntas de Negócio. Criando um Painel de informações interativo.
+Criar um dashboard de vendas no Excel que responda perguntas de Negócio. Criando um Painel de informações interativo.
 
 
 - Base de Dados :[805d54f9-6d53-4246-bed7-4aa2da615923 (2).xlsx](https://github.com/user-attachments/files/28063639/805d54f9-6d53-4246-bed7-4aa2da615923.2.xlsx)
